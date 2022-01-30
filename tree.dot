@@ -162,7 +162,7 @@ edge [fontname="helvetica"] ;
 75 -> 79 ;
 80 [label="squared_error = 160.637\nsamples = 296\nvalue = 40.82"] ;
 79 -> 80 ;
-81 [label="squared_error = -0.0\nsamples = 1\nvalue = 11.512"] ;
+81 [label="squared_error = 0.0\nsamples = 1\nvalue = 11.512"] ;
 79 -> 81 ;
 82 [label="Sofia-NO2 <= 57.94\nsquared_error = 233.984\nsamples = 2553\nvalue = 43.024"] ;
 66 -> 82 ;
